@@ -1,7 +1,7 @@
 ### Hi! I'm Daniel.
 
 
-- I'm Currently Working on Undergraduate Research within the [Sustain Project](http://urban-sustain.org/) at Colorado State University.
+- I'm Currently Working on Undergraduate Research/Software Development within the [Sustain Project](http://urban-sustain.org/) at Colorado State University.
 - Reach out to me at: **danielreynolds101@gmail.com**.
 - View my [Resume](https://drive.google.com/file/d/1rRpHgL2iC1J3KiAu-oP5PunnEIK59zzf/view?usp=sharing).
 
